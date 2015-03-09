@@ -3,6 +3,8 @@
 Esta aplicación tendrá 3 páginas privadas y un formulario de login.
 Para acceder a cualquiera de estas páginas privadas el usuario deberá haber iniciado sesión a traves de la página de login y ademas deberá tener el rol apropiado para poder ver la página.
 
+He agregado el war porque no se como se supone que se puede generar el distribuible al clonar el proyecto desde cualquier sitio.
+
 La app tiene en memoria los siguientes usuarios:
 ```
 Usuario: usuario_pag_1
